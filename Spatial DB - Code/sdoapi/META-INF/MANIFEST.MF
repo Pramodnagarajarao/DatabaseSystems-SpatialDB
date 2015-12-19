@@ -1,0 +1,219 @@
+Manifest-Version: 1.0
+Created-By: Oracle9i JDeveloper 5.0
+
+Name: oracle/sdoapi/util/OraGeometryMetaData.class
+
+Name: oracle/sdoapi/sref/impl/GeographicCSImpl.class
+
+Name: oracle/sdoapi/geom/MultiCurveString.class
+
+Name: oracle/sdoapi/sref/Projection.class
+
+Name: oracle/sdoapi/geom/impl/LinearSegmentImpl.class
+
+Name: oracle/sdoapi/adapter/AdapterJava2D.class
+
+Name: oracle/sdoapi/geom/impl/PolygonImpl.class
+
+Name: oracle/sdoapi/geom/EnvelopeImpl.class
+
+Name: oracle/sdoapi/geom/impl/GeometryImpl.class
+
+Name: oracle/sdoapi/util/OraGeomLin.class
+
+Name: oracle/sdoapi/adapter/GeometryOutputTypeNotSupportedException.cl
+ ass
+
+Name: oracle/sdoapi/geom/CoordPointImpl.class
+
+Name: oracle/sdoapi/geom/impl/MultiPolygonImpl.class
+
+Name: oracle/sdoapi/geom/InvalidGeometryException.class
+
+Name: oracle/sdoapi/sref/GeodeticEllipsoid.class
+
+Name: oracle/sdoapi/geom/Polygon.class
+
+Name: oracle/sdoapi/geom/CoordPoint.class
+
+Name: oracle/sdoapi/geom/impl/CurvePolygonImpl.class
+
+Name: oracle/sdoapi/geom/Segment.class
+
+Name: oracle/sdoapi/adapter/GeometryInputTypeNotSupportedException.cla
+ ss
+
+Name: oracle/sdoapi/sref/PrimeMeridian.class
+
+Name: oracle/sdoapi/sref/proj/Polyconic.class
+
+Name: oracle/sdoapi/adapter/AdapterSDO.class
+
+Name: oracle/sdoapi/geom/impl/PointImpl.class
+
+Name: oracle/sdoapi/geom/MultiPoint.class
+
+Name: oracle/sdoapi/geom/impl/GeometryFactoryImpl.class
+
+Name: oracle/sdoapi/adapter/SDOGeometry.class
+
+Name: oracle/sdoapi/util/OraCG.class
+
+Name: oracle/sdoapi/adapter/GeometryFormatException.class
+
+Name: oracle/sdoapi/adapter/GeometryAdapter.class
+
+Name: oracle/sdoapi/util/GeometryMetaData.class
+
+Name: oracle/sdoapi/sref/LinearUnit.class
+
+Name: oracle/sdoapi/adapter/AdapterXML.class
+
+Name: oracle/sdoapi/sref/SRException.class
+
+Name: oracle/sdoapi/geom/impl/CurveStringImpl.class
+
+Name: oracle/sdoapi/OraSpatialManager.class
+
+Name: oracle/sdoapi/sref/ProjectedCS.class
+
+Name: oracle/sdoapi/sref/proj/TransverseMercator.class
+
+Name: oracle/sdoapi/sref/proj/POINT_2D.class
+
+Name: oracle/sdoapi/sref/impl/ProjectedCSImpl.class
+
+Name: oracle/sdoapi/sref/impl/TransformImpl.class
+
+Name: oracle/sdoapi/util/SDODimElement.class
+
+Name: oracle/sdoapi/sref/SpatialReference.class
+
+Name: oracle/sdoapi/util/SDOClassLoader.class
+
+Name: oracle/sdoapi/geom/impl/MultiLineStringImpl.class
+
+Name: oracle/sdoapi/geom/Geometry.class
+
+Name: oracle/sdoapi/sref/Transform.class
+
+Name: oracle/sdoapi/adapter/XMLGeometry.class
+
+Name: oracle/sdoapi/geom/Surface.class
+
+Name: oracle/sdoapi/geom/CurveString.class
+
+Name: oracle/sdoapi/sref/proj/PolarST.class
+
+Name: oracle/sdoapi/util/InvalidMetaDataException.class
+
+Name: oracle/sdoapi/geom/LinearSegment.class
+
+Name: oracle/sdoapi/sref/proj/LambertAE.class
+
+Name: oracle/sdoapi/sref/GeographicCS.class
+
+Name: oracle/sdoapi/geom/MultiPolygon.class
+
+Name: oracle/sdoapi/geom/MultiLineString.class
+
+Name: oracle/sdoapi/geom/Curve.class
+
+Name: oracle/sdoapi/geom/LineString.class
+
+Name: oracle/sdoapi/geom/GeometryFactory.class
+
+Name: oracle/sdoapi/sref/NonEarthCS.class
+
+Name: oracle/sdoapi/adapter/SDOTemplateFactoryImpl.class
+
+Name: oracle/sdoapi/adapter/AdapterWKT.class
+
+Name: oracle/sdoapi/geom/BezierCurve.class
+
+Name: oracle/sdoapi/util/RecursiveIterator.class
+
+Name: oracle/sdoapi/util/OraGeometryMetaData$DimInfo.class
+
+Name: oracle/sdoapi/util/OraGeomLin$ALNode.class
+
+Name: oracle/sdoapi/util/ArrayIterator.class
+
+Name: oracle/sdoapi/geom/impl/MultiPointImpl.class
+
+Name: oracle/sdoapi/adapter/StreamWKBGeometry.class
+
+Name: oracle/sdoapi/geom/impl/CurveHelper.class
+
+Name: oracle/sdoapi/adapter/AdapterWKB.class
+
+Name: oracle/sdoapi/geom/MultiSurface.class
+
+Name: oracle/sdoapi/sref/Unit.class
+
+Name: oracle/sdoapi/geom/CircularArc.class
+
+Name: oracle/sdoapi/util/ErrorMsg.class
+
+Name: oracle/sdoapi/sref/proj/UTM.class
+
+Name: oracle/sdoapi/sref/proj/LambertCC.class
+
+Name: oracle/sdoapi/geom/impl/MultiCurveStringImpl.class
+
+Name: oracle/sdoapi/geom/CurvePolygon.class
+
+Name: oracle/sdoapi/sref/proj/COMPLEX_DEF.class
+
+Name: oracle/sdoapi/geom/GeometryCollection.class
+
+Name: oracle/sdoapi/adapter/WKBGeometry.class
+
+Name: oracle/sdoapi/sref/SRManager.class
+
+Name: oracle/sdoapi/geom/Point.class
+
+Name: oracle/sdoapi/sref/proj/Albers.class
+
+Name: oracle/sdoapi/geom/impl/LineStringImpl.class
+
+Name: oracle/sdoapi/sref/XFormParameters.class
+
+Name: oracle/sdoapi/adapter/SDOTemplateFactory.class
+
+Name: oracle/sdoapi/sref/GeodeticDatum.class
+
+Name: oracle/sdoapi/geom/impl/MultiCurvePolygonImpl.class
+
+Name: oracle/sdoapi/sref/impl/SRManagerImpl.class
+
+Name: oracle/sdoapi/geom/impl/BezierCurveImpl.class
+
+Name: oracle/sdoapi/geom/MultiCurvePolygon.class
+
+Name: oracle/sdoapi/sref/impl/NamedAttr.class
+
+Name: oracle/sdoapi/adapter/AdapterWKT$MyDoubleVector.class
+
+Name: oracle/sdoapi/geom/impl/GeometryCollectionImpl.class
+
+Name: oracle/sdoapi/geom/MultiCurve.class
+
+Name: oracle/sdoapi/sref/AngularUnit.class
+
+Name: oracle/sdoapi/sref/proj/Mercator.class
+
+Name: oracle/sdoapi/geom/impl/CircularArcImpl.class
+
+Name: oracle/sdoapi/sref/impl/WKTSRS.class
+
+Name: oracle/sdoapi/geom/Envelope.class
+
+Name: oracle/sdoapi/adapter/SDOGeometry$GeomElement.class
+
+Name: oracle/sdoapi/sref/proj/Util.class
+
+Name: oracle/sdoapi/sref/srsHolder.class
+
+Name: oracle/sdoapi/adapter/StreamWKBGeometry$MyByteInputStream.class
+

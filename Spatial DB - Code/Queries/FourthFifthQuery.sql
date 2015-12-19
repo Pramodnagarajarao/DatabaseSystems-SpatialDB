@@ -1,0 +1,1 @@
+select table1.column_value as vertices_of_MBR from table(SELECT SDO_AGGR_MBR(b.BuildingShape).sdo_ordinates  as Coordinates FROM Building b WHERE b.BuildingName LIKE 'SS%') table1;
